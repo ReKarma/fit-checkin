@@ -1,1 +1,1 @@
-{"name":"轻盈打卡 · 健身减脂","short_name":"轻盈打卡","description":"你的每日健身减脂打卡伙伴","start_url":"../","display":"standalone","background_color":"#f7f8f2","theme_color":"#f7f8f2","lang":"zh-CN","icons":[{"src":"../logo.png","sizes":"180x180","type":"image/png","purpose":"any"}],"scope":"../"}
+{"name":"轻盈打卡 · 健身减脂","short_name":"轻盈打卡","description":"你的每日健身减脂打卡伙伴","start_url":"../","display":"standalone","background_color":"#f7f8f2","theme_color":"#f7f8f2","lang":"zh-CN","icons":[{"src":"../logo.png?v=2","sizes":"1024x1024","type":"image/png","purpose":"any"}],"scope":"../"}
